@@ -1,0 +1,44 @@
+# Miscellaneous
+roll_dice_app/*.class
+roll_dice_app/*.log
+roll_dice_app/*.pyc
+roll_dice_app/*.swp
+roll_dice_app/.DS_Store
+roll_dice_app/.atom/
+roll_dice_app/.buildlog/
+roll_dice_app/.history
+roll_dice_app/.svn/
+roll_dice_app/migrate_working_dir/
+
+# IntelliJ related
+roll_dice_app/*.iml
+roll_dice_app/*.ipr
+roll_dice_app/*.iws
+roll_dice_app/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+roll_dice_app/**/doc/api/
+roll_dice_app/**/ios/Flutter/.last_build_id
+roll_dice_app/.dart_tool/
+roll_dice_app/.flutter-plugins
+roll_dice_app/.flutter-plugins-dependencies
+roll_dice_app/.packages
+roll_dice_app/.pub-cache/
+roll_dice_app/.pub/
+roll_dice_app/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
